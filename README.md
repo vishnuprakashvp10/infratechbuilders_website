@@ -9,7 +9,7 @@ HERO CARD WITH SLIDER :
 
 ![image](https://github.com/vishnuprakashvp10/infratechbuilders_website/assets/116889374/25856c6a-bff3-414a-bb8f-e63a8e81cc4f)
 
-NAVIGATION BAR (Multi Routed) :
+NAVIGATION BAR (With Multi Router) :
 
 ![image](https://github.com/vishnuprakashvp10/infratechbuilders_website/assets/116889374/aef10ceb-3ed4-4933-ad6e-453f26d3fe38)
 
